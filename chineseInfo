@@ -346,4 +346,31 @@ def zacariasyang(**my):
     assert VAT_ID == 24755908
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+張舜龍
+數據驅動傳教士
++886 987007019
+zac@data-sci.info
+zac.yang@gmail.com
+
+(英文版)
+https://raw.githubusercontent.com/agilearning/BusinessCards/master/english/zacyang.py
+
+"""
+╔═╗┌─┐┌─┐  ╦ ╦┌─┐┌┐┌┌─┐
+╔═╝├─┤│    ╚╦╝├─┤││││ ┬
+╚═╝┴ ┴└─┘   ╩ ┴ ┴┘└┘└─┘
+"""
+from agilearning import agilearner, VAT_ID
+
+
+@agilearner
+def zacariasyang(**my):
+    """ Data-driven Evangelist """
+
+    assert my["github"] == "http://github.com/zacariasyang"
+    assert my["email"] in ["zac@data-sci.info", "zac.yang@gmail.com"]
+    assert my["phone_number"] == "+886 987-007019"
+    assert VAT_ID == 24755908
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (請大家補上資訊囉)
