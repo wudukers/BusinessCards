@@ -346,4 +346,27 @@ def zacariasyang(**my):
     assert VAT_ID == 24755908
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-(請大家補上資訊囉)
+張舜龍
+學習小幫手
++886 934133920
+edi7709@gmail.com
+
+(英文版)
+https://raw.githubusercontent.com/agilearning/BusinessCards/master/english/shunlungchang.py
+
+"""
+╔═╗┬ ┬┬ ┬┌┐┌   ╦  ┬ ┬┌┐┌┌─┐ ╔═╗┬ ┬┌─┐┌┐┌┌─┐
+╚═╗├─┤│ ││││───║  │ │││││ ┬ ║  ├─┤├─┤││││ ┬
+╚═╝┴ ┴└─┘┘└┘   ╩═╝└─┘┘└┘└─┘ ╚═╝┴ ┴┴ ┴┘└┘└─┘
+(SHUN-LUNG CHANG)
+"""
+
+@agilearner
+def shunlungchang(**my):
+    """ Learning Assistant """
+
+    assert my["github"] == "https://github.com/ConnerChang"
+    assert my["email"] in ["edi7709@gmail.com"]
+    assert my["phone_number"] == "+886 934133920"
+    assert VAT_ID == 24755908
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
